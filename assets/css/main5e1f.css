@@ -36,7 +36,7 @@ body {
     font-family: goty;
     font-size: 16px;
     margin: 0 auto;
-    background-color: #95B2BF;
+    background-color: rgb(8, 9, 14);
     /* scroll-behavior: smooth; */
 }
 
@@ -62,11 +62,11 @@ h2 {
 }
 
 .text-primary {
-    color: #000000 !important;
+    color: white !important;
 }
 
 .text-secondary {
-    color: #000000 !important;
+    color: white !important;
 }
 
 .text-base {
@@ -89,14 +89,14 @@ h2 {
     background: linear-gradient(to right, #18811c 15%, #243e06 50%);
     background: black;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: #D46B8A;
 }
 
 .text-linear-secondary {
     background: linear-gradient(to right, #000000 15%, #055108 50%);
     background: -webkit-linear-gradient(to right, #ae4651 15%, #ffdcfc 50%);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: #D46B8A;
 }
 
 .container {
